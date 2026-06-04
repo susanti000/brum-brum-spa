@@ -17,4 +17,4 @@ Aplikasi Web Satu Halaman (SPA) interaktif bertema katalog toko motor bernama **
 ## 📁 Cara Menjalankan Aplikasi
 1. **Clone Repositori Ini:**
    ```bash
-   git clone [https://github.com/USERNAME_KAMU/NAMA_REPO_KAMU.git](https://github.com/USERNAME_KAMU/NAMA_REPO_KAMU.git)
+   git clone https://github.com/susanti000/brum-brum-spa.git
